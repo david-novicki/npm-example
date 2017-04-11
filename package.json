@@ -1,0 +1,23 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "Minimal project need to npm publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supercycle91/npm-example.git"
+  },
+  "keywords": [
+    "npm",
+    "example"
+  ],
+  "author": "David Novicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supercycle91/npm-example/issues"
+  },
+  "homepage": "https://github.com/supercycle91/npm-example#readme"
+}
